@@ -14,4 +14,4 @@ Program dijalankan melalui terminal, dengan urutan sebagai berikut:
 5. Setelah seluruh soal berhasil dikeluarkan, Server dan tiap Client akan menampilkan rekap score client dan keseluruhan client yang mengikuti quiz.
 
 # Kemungkinan bug
-* Terdapat bug yang belum diketahui sumber permasalahannya, kemungkinan adanya message yang conflict di client, sehingga saat melakukan parsing json dari server menjadi error. Bug ini terkadang muncul dan terkadang tidak, jika muncul yang bisa kami lakukan hingga saat ini adalah menjalankan seluruh program dari awal.
+* Terdapat bug yang belum diketahui sumber permasalahannya, kemungkinan adanya message yang conflict di client, sehingga saat melakukan parsing json dari server menjadi error. Bug ini terkadang muncul dan terkadang tidak, jika muncul yang bisa kami lakukan hingga saat ini adalah menjalankan kembali seluruh program dari awal.
