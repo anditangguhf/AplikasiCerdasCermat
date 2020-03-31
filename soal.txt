@@ -1,0 +1,10 @@
+1#Raket adalah alat untuk bermain ...#10#Badminton#Tenis#Sepakbola#Basket#A
+2#Supaya pandai bermain bola, Andi harus rajin …#10#Belajar#Beribadah#Berlatih#Makan#C
+3#Alas yang digunakan untuk senam di lantai yaitu …#10#Tiang#Karpet#Matras#Kasur#C
+4#Permainan lompat tali berguna untuk melatih kekuatan otot …#10#Lengan#Tangan#Perut#Kaki#D
+5#Saat melempar bola pandangan harus kearah …#10#Bawah#Depan#Kanan#Langit#B
+6#Kesahatan harus tetap dijaga dengan cara memakan makanan yang mengandung 4 sehat … sempurna.#10#7#3#5#2#C
+7#Organisasi sepak bola dunia adalah …#10#FIBA#FIFA#VINA#FAFA#B
+8#Pelari jarak pendek disebut juga …#10#Sprinter#Supporter#Panther#Starter#A
+9#Orang yang memimpin pertandingan sepak bole disebut …#10#Hakim#Kiper#Wasit#Leader#B
+10#Sebelum berolahraga kita harus melakukan … agar tidak cedera.#10#Pendinginan#Tidur#Makan#Pemanasan#D
